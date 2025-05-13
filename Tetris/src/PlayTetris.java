@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class PlayTetris extends JFrame
+public class NoPlyTetris extends JFrame
 {
 	public PlayTetris()
 	{
